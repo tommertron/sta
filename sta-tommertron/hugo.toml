@@ -1,0 +1,4 @@
+baseURL = 'https://sta.tommertron.com/'
+languageCode = 'en-us'
+title = 'STA - USS Tommertron'
+theme = 'congo'

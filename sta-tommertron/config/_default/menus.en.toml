@@ -26,11 +26,6 @@
   weight = 30
 
 [[main]]
-  name = "Characters"
-  pageRef = "characters"
-  weight = 25
-
-[[main]]
   identifier = "search"
   weight = 99
   [main.params]

@@ -2,7 +2,7 @@
 date = '2024-12-31'
 draft = false
 title = 'Determination'
-description = 'A deep dive into determination.'
+summary = 'A deep dive into determination.'
 +++
 
 Player Characters begin each session with a single point of Determination, and no character can have more than three points of Determination at any time. Using and gaining Determination is tied to a character’s [[Values]], and to the Directives in play during a mission.

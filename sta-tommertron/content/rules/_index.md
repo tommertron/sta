@@ -6,7 +6,10 @@ cascade:
   showDate: false
   showAuthor: false
   showSummary: false
+  showDescription: true
   invertPagination: true
+  showReadingtime: false
+  showPagination: false
 ---
 
 {{< lead >}}

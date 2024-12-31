@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Captain's Log"
-  pageRef = "log"
+  pageRef = "log-entries"
   weight = 10
 
 [[main]]
@@ -26,10 +26,17 @@
   weight = 30
 
 [[main]]
+  name = "Characters"
+  pageRef = "characters"
+  weight = 25
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
     action = "search"
+    
+    
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

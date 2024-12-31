@@ -1,8 +1,16 @@
-# Talents
++++
+date = '2024-12-31'
+draft = false
+title = 'Talents'
+summary = 'Overview of talents, a trait used by player characters.'
+showReadingTime = false
++++
+
+## What are Talents?
 
 Talents in "Star Trek Adventures" represent unique abilities or advantages that set characters apart, reflecting their specialized training, personal experiences, and innate abilities. Here’s a detailed look at how talents function:
 
-### General Overview
+## General Overview
 
 1. **Definition**:
    - Talents give characters specific advantages or abilities in particular situations, such as extra dice, re-rolls, or special actions that align with their expertise and background.
@@ -11,7 +19,7 @@ Talents in "Star Trek Adventures" represent unique abilities or advantages that 
 3. **Structure**:
    - Each talent consists of a condition under which it can be used and a benefit provided when that condition is met.
 
-### Example Talents and Their Effects
+## Example Talents and Their Effects
 
 1. **Bold**:
    - **Requirement**: None
@@ -41,7 +49,7 @@ Talents in "Star Trek Adventures" represent unique abilities or advantages that 
    - **Requirement**: None
    - **Effect**: When avoiding an injury, reduce the cost by 1, to a minimum of 1.
 
-### Special Talents for Specific Roles
+## Special Talents for Specific Roles
 
 1. **Command Talents**:
    - **Advisor**: When assisting another character using your Command discipline, the character being assisted may re-roll one d20.
@@ -61,7 +69,4 @@ Talents in "Star Trek Adventures" represent unique abilities or advantages that 
 6. **Medical Talents**:
    - **Doctor’s Orders**: When attempting a task to coordinate others or to coerce someone into a specific course of action, use your Medicine discipline instead of Command.
 
-### Conclusion
-
-Talents in "Star Trek Adventures" add depth and customization to characters, allowing them to specialize in particular fields and excel under certain conditions. These talents not only provide mechanical benefits but also enrich the narrative by highlighting characters' unique skills and backgrounds  .
 

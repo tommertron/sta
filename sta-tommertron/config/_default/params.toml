@@ -36,13 +36,13 @@ fingerprintAlgorithm = "sha256"
   recentLimit = 5
 
 [article]
-  showDate = false
+  showDate = true
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/jpanther/congo/tree/dev/exampleSite/content/"
+  editURL = "https://github.com/tommertron/sta/tree/main/sta-tommertron/content"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
@@ -56,11 +56,12 @@ fingerprintAlgorithm = "sha256"
 
 [list]
   showBreadcrumbs = true
-  showSummary = false
+  showSummary = true
   showTableOfContents = true
   showTaxonomies = false
   groupByYear = false
   paginationWidth = 1
+  showDate = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]

@@ -18,7 +18,7 @@ When a character’s **Value** or the mission’s **Directive** would be advanta
 | **Perfect Opportunity**   | Gain a bonus d20 that has rolled a 1 (2 successes).                             |
 | **Moment of Inspiration** | Re-roll all the dice in the dice pool.                                          |
 | **Surge of Activity**     | Immediately perform another **Task** as soon as this one is resolved.           |
-| **Make it So**            | Immediately create an [[Advantage]] that applies to the current scene.          |
+| **Make it So**            | Immediately create an Advantage that applies to the current scene.          |
 
 ## Getting Determination Points To Go Against a Value
 

@@ -1,7 +1,7 @@
 +++
 date = '2024-12-31'
 draft = false
-title = 'Common Conncepts'
+title = 'Common Concepts'
 description = 'Quick bites of the most commonly referred to rules.'
 summary = 'A collection of quick descriptions of common basic rules.'
 showReadingTime = false

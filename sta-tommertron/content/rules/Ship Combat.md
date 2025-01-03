@@ -4,6 +4,7 @@ draft = false
 title = 'Combat - Ships'
 summary = 'Everything you need to know about ships, including combat.'
 showReadingTime = false
+weight = 4
 +++
 
 ## Ship Combat Overview

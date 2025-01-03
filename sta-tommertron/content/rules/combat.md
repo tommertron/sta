@@ -4,6 +4,7 @@ date: 2024-12-31T00:00:00Z
 summary: "A concise summary of combat mechanics in Star Trek Adventures."
 categories: ["Rules", "Combat"]
 tags: ["Combat", "Star Trek Adventures", "Gameplay"]
+weight: 2
 ---
 
 ## Combat Overview

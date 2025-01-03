@@ -4,6 +4,7 @@ date = "2024-12-31"
 draft = false
 summary = "A detailed table of weapons and their associated qualities in Star Trek Adventures."
 showReadingTime = false
+weight = 2.1
 +++
 
 ## Weapons Table

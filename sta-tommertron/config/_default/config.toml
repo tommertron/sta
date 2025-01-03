@@ -10,7 +10,7 @@ summaryLength = 7
 showDate = true
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 30
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

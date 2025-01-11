@@ -3,7 +3,7 @@ date: '2024-12-31'
 draft: false
 title: 'Talents'
 summary: 'Overview of talents, a trait used by player characters.'
-showReadingTime = false
+showReadingTime: false
 ---
 
 ## What are Talents?

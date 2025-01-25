@@ -45,7 +45,7 @@ If Aimed, the creature may re-roll any number of d20s.
 Attack affects every creature or object within **Reach** of the target, plus one additional target within **Close** for each Effect rolled. Allies may be hit for a **Complication**.
 
 ### Charge
-If Prepared, the creature may add either [Area](#area), [Intense](#intense), [Piercing](#piercing), or [Vicious](#vicious) to the attack.
+If Prepared, the creature may add either [Area](#area), Intense, Piercing 2, or Vicious 1 to the attack.
 
 ### Cumbersome
 The weapon must be **Prepared** each turn to use.

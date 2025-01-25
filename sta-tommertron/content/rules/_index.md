@@ -5,7 +5,7 @@ description: "A listing of major rules."
 cascade:
   showDate: false
   showAuthor: false
-  showSummary: true
+  showSummary: false
   invertPagination: true
   showReadingtime: false
   showPagination: false

@@ -1,8 +1,8 @@
 +++
-title = “Extended Tasks”
-date = “2024-12-31”
+title = ‘Extended Tasks’
+date = ‘2024-12-31’
 draft = false
-summary = “A guide to using Extended Tasks in Star Trek Adventures.”
+summary = ‘A guide to using Extended Tasks in Star Trek Adventures.’
 showReadingTime = false
 weight = 3.0
 +++

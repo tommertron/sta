@@ -14,6 +14,7 @@ This is a collection of helpful links. I'll try to keep this up to date.
 - [List of all talents](https://sta.bcholmes.org/talents)
 - [Star Trek Sound Effects](https://www.trekcore.com/audio/)
 - [LCARS PowerPoint Template](https://continuingmissionsta.com/2019/06/07/jonathan-isaac-moores-powerpoint-briefings/)
+- [Temporal Meter](/elements/temporal-meter.html)
 
 
 

@@ -1,8 +1,8 @@
 +++
-title = "Weapons - Personal"
-date = "2024-12-31"
+title = “Weapons - Personal”
+date = “2024-12-31”
 draft = false
-summary = "A detailed table of weapons and their associated qualities in Star Trek Adventures."
+summary = “A detailed table of weapons and their associated qualities in Star Trek Adventures.”
 showReadingTime = false
 weight = 2.1
 +++
@@ -11,16 +11,16 @@ weight = 2.1
 
 All weapons gain additional challenge dice to their damage rating equal to the Security discipline of the character.
 
-So for the weapons table, add the character's Security rating to the listed CD rating. Unarmed is 1 challenge die, so would be 1+Character's Security rating[CD].
+So for the weapons table, add the character’s Security rating to the listed CD rating. Unarmed is 1 challenge die, so would be 1+Character’s Security rating[CD].
 
 ## Weapons Table
 
 | **Name**                  | **Type**    | **Damage Rating** | **Size** | **Qualities**                                                                                     | **Cost**               |
-|---------------------------|-------------|-------------------|----------|---------------------------------------------------------------------------------------------------|------------------------|
+|—————————|-————|-——————|-———|—————————————————————————————————|————————|
 | Unarmed Strike            | Melee       | 1 Knockdown       | 1H       | [Non-lethal](#non-lethal), [Knockdown](#knockdown)                                                | -                      |
 | Knife/Dagger              | Melee       | 1 Vicious 1       | 1H       | [Deadly](#deadly), [Hidden](#hidden)                                                             | Opportunity 1          |
-| Blade (Sword, Mek'leth)   | Melee       | 2 Vicious 1       | 1H       | [Vicious](#vicious)                                                                              | Opportunity 1          |
-| Heavy Blade (Bat'leth)    | Melee       | 3 Vicious 1       | 2H       | [Vicious](#vicious)                                                                              | Opportunity 1, Escalation 1 |
+| Blade (Sword, Mek’leth)   | Melee       | 2 Vicious 1       | 1H       | [Vicious](#vicious)                                                                              | Opportunity 1          |
+| Heavy Blade (Bat’leth)    | Melee       | 3 Vicious 1       | 2H       | [Vicious](#vicious)                                                                              | Opportunity 1, Escalation 1 |
 | Bludgeon                  | Melee       | 2 Knockdown       | 1H       | [Knockdown](#knockdown)                                                                          | Opportunity 1          |
 | Phaser Type-1             | Ranged      | 2                 | 1H       | [Charge](#charge), [Hidden](#hidden)                                                             | Standard Issue         |
 | Phaser Type-2             | Ranged      | 3                 | 1H       | [Charge](#charge)                                                                                | Standard Issue         |
@@ -31,10 +31,10 @@ So for the weapons table, add the character's Security rating to the listed CD r
 | Particle Rifle            | Ranged      | 4                 | 2H       | [Accurate](#accurate)                                                                            | Standard Issue         |
 | Disruptor Pistol          | Ranged      | 3 Vicious 1       | 1H       | [Vicious](#vicious)                                                                              | Not Available          |
 | Disruptor Rifle           | Ranged      | 4 Vicious 1       | 2H       | [Accurate](#accurate), [Vicious](#vicious)                                                      | Not Available          |
-| Jem'Hadar Plasma Pistol   | Ranged      | 3 Vicious 1       | 1H       | [Debilitating](#debilitating), [Vicious](#vicious)                                               | Not Available          |
-| Jem'Hadar Plasma Rifle    | Ranged      | 4 Vicious 1       | 2H       | [Accurate](#accurate), [Debilitating](#debilitating), [Vicious](#vicious)                        | Not Available          |
+| Jem’Hadar Plasma Pistol   | Ranged      | 3 Vicious 1       | 1H       | [Debilitating](#debilitating), [Vicious](#vicious)                                               | Not Available          |
+| Jem’Hadar Plasma Rifle    | Ranged      | 4 Vicious 1       | 2H       | [Accurate](#accurate), [Debilitating](#debilitating), [Vicious](#vicious)                        | Not Available          |
 
----
+—
 
 ## Weapon Qualities
 
@@ -45,7 +45,7 @@ If Aimed, the creature may re-roll any number of d20s.
 Attack affects every creature or object within **Reach** of the target, plus one additional target within **Close** for each Effect rolled. Allies may be hit for a **Complication**.
 
 ### Charge
-If Prepared, the creature may add either [Area](#area), Intense, Piercing 2, or Vicious 1 to the attack.
+If Prepared, the creature may add either [Area](#area), [Intense](#intense), [Piercing](#piercing), or [Vicious](#vicious) to the attack.
 
 ### Cumbersome
 The weapon must be **Prepared** each turn to use.

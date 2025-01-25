@@ -6,50 +6,45 @@ summary = "A Mon Calamari Junior Science Officer with a keen mind and passion fo
 showReadingTime = false
 +++
 
-## Starfleet Personnel Record
+## 🖖 Starfleet Personnel Record
 
-**Name:** Fin'rikk Nik'tkk  
-**Rank:** Lieutenant J.G.  
-**Pronouns:** He/Him  
-**Species:** Mon Calamari  
-**Environment:** Asceticism and Introspection  
-**Upbringing:** Science and Technology (Accepted)  
-**Assignment:** Junior Science Officer, USS Tommertron  
-**Traits:** Mon Calamari  
-
----
-
-## Attributes
-
-| **Control** | **Fitness** | **Presence** |  
-|-------------|-------------|--------------|  
-| 11          | 8           | 9            |  
-
-| **Daring**  | **Insight** | **Reason**   |  
-|-------------|-------------|--------------|  
-| 7           | 10          | 11           |  
+| **Attribute**      | **Details**                                                      |
+|---------------------|------------------------------------------------------------------|
+| **Name**           | Fin'rikk Nik'tkk                                                |
+| **Rank**           | Lieutenant J.G.                                                |
+| **Pronouns**       | He/Him                                                          |
+| **Species**        | 🐟 Mon Calamari                                                 |
+| **Environment**    | 🧘 Asceticism and Introspection                                 |
+| **Upbringing**     | 🧪 Science and Technology (Accepted)                            |
+| **Assignment**     | 🔬 Junior Science Officer, USS Tommertron                      |
+| **Traits**         | Mon Calamari                                                    |
 
 ---
 
-## Disciplines
+## 📊 Stats
 
-| **Command** | **Conn**    | **Security** |  
-|-------------|-------------|--------------|  
-| 2           | 3           | 2            |  
+### 🧠 Attributes
 
-| **Engineering** | **Science** | **Medicine** |  
-|-----------------|-------------|--------------|  
-| 3               | 4           | 2            |  
+| **Control** | 11 | **Fitness** | 8  | **Presence** | 9  |
+|-------------|----|-------------|----|--------------|----|
+| **Daring**  | 7  | **Insight** | 10 | **Reason**   | 11 |
 
----
+### 🎓 Disciplines
 
-## Stress
+| **Command**     | 2  | **Conn**      | 3  | **Security**  | 2  |
+|------------------|----|---------------|----|---------------|----|
+| **Engineering**  | 3  | **Science**   | 4  | **Medicine**  | 2  |
+
+### 🔗 Others
 
 - **Stress:** 10 (Fitness 8 + Security 2)  
+- **Resistance:** 0  
+- **Reputation:** 10  
+- **Reprimands:** 0  
 
 ---
 
-## Values
+## 🌌 Values
 
 - Peace through superior firepower  
 - Life finds a way  
@@ -58,7 +53,7 @@ showReadingTime = false
 
 ---
 
-## Focuses
+## 🔍 Focuses
 
 - Warp Field Dynamics  
 - Physics  
@@ -69,7 +64,7 @@ showReadingTime = false
 
 ---
 
-## Talents
+## 🌟 Talents
 
 - **Bold: Science:** Whenever you use Momentum from the pool on a Science Task, you may reroll a single d20.  
 - **Applied Research:** When attempting a Task to perform research, reduce Difficulty by 1.  
@@ -78,25 +73,19 @@ showReadingTime = false
 
 ---
 
-## Equipment
+## 🛠 Equipment
 
-- Uniform  
-- Communicator  
-- Standard Science Tricorder  
+| **Name**               | **Details**             |
+|-------------------------|-------------------------|
+| 👔 Uniform              | Standard issue          |
+| 📡 Communicator         | Starfleet communicator  |
+| 🔬 Standard Science Tricorder | Multipurpose scientific tool |
+
+### ⚔️ Weapons Inventory
+
+| **Name**            | **Type**  | **Base Damage** | **Sec Bonus** | **Total Damage** | **Size** | **Qualities**                                                |
+|----------------------|-----------|-----------------|---------------|------------------|----------|-------------------------------------------------------------|
+| 🔫 Phaser Type-1     | Ranged    | 2               | +2            | 4                | 1H       | [Charge](/rules/weapons/#charge), [Hidden](/rules/weapons/#hidden) |
+| ✊ Unarmed Strike     | Melee     | 1               | +2            | 3                | 1H       | [Knockdown](/rules/weapons/#knockdown), [Non-lethal](/rules/weapons/#non-lethal) |
 
 ---
-
-## Weapons
-
-| **Name**            | **Qualities**               | **Damage Dice** |  
-|----------------------|-----------------------------|-----------------|  
-| Unarmed Strike       | Knockdown, Non-lethal      | 3               |  
-| Phaser Type-1        | Charge, Hidden 1           | 4               |  
-
----
-
-## Resistance and Reputation
-
-- **Resistance:** 0  
-- **Reputation:** 10  
-- **Reprimands:** 0  

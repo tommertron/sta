@@ -6,52 +6,45 @@ summary = "Tomertron's Human Chief Medical Officer."
 showReadingTime = false
 +++
 
-## Starfleet Personnel Record
+## 🖖 Starfleet Personnel Record
 
-**Name:** Bertram Vorpatril  
-**Rank:** Lieutenant  
-**Pronouns:** He/Him  
-**Species:** Human  
-**Environment:** Busy Colony  
-**Upbringing:** Business or Trade (R)  
-**Event 1:** Death of a Friend  
-**Event 2:** Required to Take Command  
-**Assignment:** Chief Medical Officer, USS Tomertron  
-**Traits:** Human, Irresponsible  
-
----
-
-## Attributes
-
-| **Control** | **Fitness** | **Presence** |  
-|-------------|-------------|--------------|  
-| 9           | 7           | 10           |  
-
-| **Daring**  | **Insight** | **Reason**   |  
-|-------------|-------------|--------------|  
-| 9           | 11          | 10           |  
+| **Attribute**      | **Details**                                                      |
+|---------------------|------------------------------------------------------------------|
+| **Name**           | Bertram Vorpatril                                               |
+| **Rank**           | Lieutenant                                                      |
+| **Pronouns**       | He/Him                                                          |
+| **Species**        | 🧑‍⚕️ Human                                                     |
+| **Environment**    | 🏙️ Busy Colony                                                 |
+| **Upbringing**     | 💼 Business or Trade (Rebelled)                                 |
+| **Event 1**        | 🪦 Death of a Friend                                            |
+| **Event 2**        | 🪖 Required to Take Command                                     |
+| **Assignment**     | 🩺 Chief Medical Officer, USS Tommertron                       |
+| **Traits**         | Human, Irresponsible                                            |
 
 ---
 
-## Disciplines
+## 📊 Stats
 
-| **Command** | **Conn**    | **Security** |  
-|-------------|-------------|--------------|  
-| 4           | 1           | 1            |  
+### 🧠 Attributes
 
-| **Engineering** | **Science** | **Medicine** |  
-|-----------------|-------------|--------------|  
-| 2               | 3           | 5            |  
+| **Control** | 9  | **Fitness** | 7  | **Presence** | 10 |
+|-------------|----|-------------|----|--------------|----|
+| **Daring**  | 9  | **Insight** | 11 | **Reason**   | 10 |
 
----
+### 🎓 Disciplines
 
-## Stress
+| **Command**     | 4  | **Conn**      | 1  | **Security**  | 1  |
+|------------------|----|---------------|----|---------------|----|
+| **Engineering**  | 2  | **Science**   | 3  | **Medicine**  | 5  |
+
+### 🔗 Others
 
 - **Stress:** 8 (Fitness 7 + Security 1)  
+- **Resistance:** 0  
 
 ---
 
-## Values
+## 🌌 Values
 
 - Variety is the spice of life  
 - When on Romulus, do as the Romulans  
@@ -60,7 +53,7 @@ showReadingTime = false
 
 ---
 
-## Focuses
+## 🔍 Focuses
 
 - Fast Talk  
 - Pharmacology  
@@ -71,7 +64,7 @@ showReadingTime = false
 
 ---
 
-## Talents
+## 🌟 Talents
 
 - **Spirit of Discovery:** Spend one Determination to add three points to the group Momentum pool.  
 - **Field Medicine:** Ignore any increase in Difficulty for working without proper tools or equipment when attempting a Medicine Task.  
@@ -80,26 +73,20 @@ showReadingTime = false
 
 ---
 
-## Equipment
+## 🛠 Equipment
 
-- Uniform  
-- Communicator  
-- Tricorder  
-- MedKit  
+| **Name**               | **Details**             |
+|-------------------------|-------------------------|
+| 👔 Uniform              | Standard issue          |
+| 📡 Communicator         | Starfleet communicator  |
+| 🔬 Tricorder            | Multipurpose scanner    |
+| 🩺 MedKit               | Starfleet medical kit   |
+
+### ⚔️ Weapons Inventory
+
+| **Name**            | **Type**  | **Base Damage** | **Sec Bonus** | **Total Damage** | **Size** | **Qualities**                                                |
+|----------------------|-----------|-----------------|---------------|------------------|----------|-------------------------------------------------------------|
+| ✊ Unarmed Strike     | Melee     | 1               | +1            | 2                | 1H       | [Knockdown](/rules/weapons/#knockdown), [Non-lethal](/rules/weapons/#non-lethal) |
+| 🔫 Phaser Type-1      | Ranged    | 2               | +1            | 3                | 1H       | [Charge](/rules/weapons/#charge), [Hidden](/rules/weapons/#hidden) |
 
 ---
-
-## Weapons
-
-| **Name**            | **Qualities**               | **Damage Dice** |  
-|----------------------|-----------------------------|-----------------|  
-| Unarmed Strike       | Knockdown, Non-lethal      | 2               |  
-| Phaser Type-1        | Charge, Hidden 1           | 3               |  
-
----
-
-## Resistance and Reputation
-
-- **Resistance:** 0  
-- **Reputation:** Not listed  
-- **Reprimands:** Not listed  

@@ -7,6 +7,12 @@ showReadingTime = false
 weight = 2.1
 +++
 
+## Weapons Notes
+
+All weapons gain additional challenge dice to their damage rating equal to the Security discipline of the character.
+
+So for the weapons table, add the character's Security rating to the listed CD rating. Unarmed is 1 challenge die, so would be 1+Character's Security rating[CD].
+
 ## Weapons Table
 
 | **Name**                  | **Type**    | **Damage Rating** | **Size** | **Qualities**                                                                                     | **Cost**               |

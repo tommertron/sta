@@ -2,7 +2,7 @@
 title = "Ensign Korgath"
 date = "2024-12-31"
 draft = false
-summary = "The first Nausicaan in Starfleet, a Security Officer with a storied past."
+summary = "The first Nausicaan in Starfleet, an Engineer Officer with a storied past."
 showReadingTime = false
 +++
 
@@ -14,7 +14,7 @@ showReadingTime = false
 **Species:** Nausicaan  
 **Environment:** Urban Environment  
 **Upbringing:** Starfleet (Rebelled Against)  
-**Assignment:** Security  
+**Assignment:** Engineering  
 **Traits:** Daamjaat addict; First Nausicaan in Starfleet  
 
 ---

@@ -39,8 +39,7 @@ showReadingTime = false
 
 - **Stress:** 10 (Fitness 8 + Security 2)  
 - **Resistance:** 0  
-- **Reputation:** 10  
-- **Reprimands:** 0  
+
 
 ---
 

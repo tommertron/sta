@@ -1,10 +1,10 @@
 +++
-title = ‘Extended Tasks’
-date = ‘2024-12-31’
+title = 'Extended Tasks'
+date = '2024-12-31'
 draft = false
-summary = ‘A guide to using Extended Tasks in Star Trek Adventures.’
+summary = 'A guide to using Extended Tasks in Star Trek Adventures.'
 showReadingTime = false
-weight = 3.0
+weight = 2
 +++
 
 ## Extended Tasks Overview
@@ -47,10 +47,10 @@ Additional details can be found on p. 282 of the rulebook.
    - Success generates Momentum, which can be spent on additional benefits (see Momentum Spends below).
 
 2. **Roll for Work:** If the Task is successful:
-   - Roll **2 Challenge Dice (CD)** plus a number of dice equal to the character’s **discipline** used for the Task.
+   - Roll **2 Challenge Dice (CD)** plus a number of dice equal to the character's **discipline** used for the Task.
    - The result is the amount of **Work** done, factoring in Challenge Dice results.
 
-3. **Apply Resistance:** Subtract the Extended Task’s **Resistance** (if any) from the Work.
+3. **Apply Resistance:** Subtract the Extended Task's **Resistance** (if any) from the Work.
 
 4. **Mark Work and Check Breakthroughs:**  
    - Apply the remaining Work to the **Work Track**.  
@@ -100,13 +100,13 @@ Complications represent setbacks during Extended Tasks. They can be used in the 
 - Remove **4 Work** from the Work Track after resolving the Task.
 
 #### Unforeseen Problem
-- Increase the Extended Task’s Resistance by **+2**, up to a maximum of **4**.
+- Increase the Extended Task's Resistance by **+2**, up to a maximum of **4**.
 
 —
 
 ## Example: Defusing a Cloaked Mine
 
-The crew of the Enterprise faces a perilous situation as a cloaked mine attaches itself to the ship’s hull. The Gamemaster assigns the following parameters to this Extended Task:
+The crew of the Enterprise faces a perilous situation as a cloaked mine attaches itself to the ship's hull. The Gamemaster assigns the following parameters to this Extended Task:
 
 - **Work:** 12  
 - **Magnitude:** 3  
@@ -117,7 +117,7 @@ The crew of the Enterprise faces a perilous situation as a cloaked mine attaches
 Lieutenant Reed uses **Control 10 + Security 4** with his Focus in Explosives. He rolls 4 successes, overcoming the Difficulty. Rolling 6 Challenge Dice (2 base + 4 Security), Reed scores **5 Work** after subtracting Resistance, achieving a Breakthrough.
 
 ### Second Attempt
-A Complication from Mayweather’s maneuver increases the mine’s Resistance by 2. Reed fails the Task, resulting in a setback: a spike impales his leg. Unable to continue, Captain Archer must take over to complete the Extended Task.
+A Complication from Mayweather's maneuver increases the mine's Resistance by 2. Reed fails the Task, resulting in a setback: a spike impales his leg. Unable to continue, Captain Archer must take over to complete the Extended Task.
 
 —
 

@@ -4,6 +4,7 @@ date: 2024-12-31T00:00:00Z
 summary: "An overview of how to perform Tasks in Star Trek Adventures."
 categories: ["Rules", "Mechanics"]
 tags: ["Tasks", "Star Trek Adventures", "Gameplay"]
+weight: 1
 ---
 
 ## What are Tasks?

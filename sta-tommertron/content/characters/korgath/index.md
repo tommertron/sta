@@ -35,17 +35,17 @@ showReadingTime = false
 
 | **Command** | **Conn**    | **Security** |  
 |-------------|-------------|--------------|  
-| 2           | 1           | 5            |  
+| 2           | 1           | 2            |  
 
 | **Engineering** | **Science** | **Medicine** |  
 |-----------------|-------------|--------------|  
-| 2               | 1           | 2            |  
+| 5               | 1           | 2            |  
 
 ---
 
 ## Stress
 
-- **Stress:** 17 (Fitness 12 + Security 5)  
+- **Stress:** 14 (Fitness 12 + Security 2)  
 
 ---
 
@@ -61,9 +61,10 @@ showReadingTime = false
 
 - Hand-to-Hand Combat  
 - Intimidation  
-- Starship Weaponry  
-- Survival  
-- Tactical Analysis  
+- Power Systems  
+- Survival
+- Warp Drive
+- Cloaking
 
 ---
 
@@ -89,5 +90,3 @@ showReadingTime = false
 ## Resistance and Reputation
 
 - **Resistance:** 1 (from Tough Talent)  
-- **Reputation:** Not listed  
-- **Reprimands:** Not listed  

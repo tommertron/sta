@@ -1,8 +1,8 @@
 ---
-title: “CPO R10T-7”
-date: “2025-02-12”
+title: ‘CPO R10T-7’
+date: ‘2025-02-12’
 draft: false
-summary: “A self-aware holographic punk who broke out of the holodeck, hacked together a mobile emitter, and became a Starfleet pilot—while secretly modding his shuttle on the side.”
+summary: ‘A self-aware holographic punk who broke out of the holodeck, hacked together a mobile emitter, and became a Starfleet pilot—while secretly modding his shuttle on the side.’
 showReadingTime: false
 ---
 
@@ -18,7 +18,7 @@ showReadingTime: false
 | **Upbringing**    | 🏴‍☠️ Countercultural (Embraced)                                |
 | **Event 1**       | ✈️ Hotshot Pilot Saves the Day                                 |
 | **Event 2**       | 🛠️ Disciplinary Action for Unauthorized Shuttle Mods          |
-| **Assignment**    | ✈️ Shuttle Pilot, USS (TBD)                                    |
+| **Assignment**    | ✈️ Shuttle Pilot, [USS Tommertron](ships/tommertron/);                                 |
 | **Traits**        | Hologram, Unstable Mobile Emitter, Rebel Without a Cause        |
 
 ---
@@ -82,13 +82,11 @@ showReadingTime: false
 | 🛠️ Multi-Tool Bracelet | Starfleet hacking & repair device   |
 | 🎛️ Subspace Scanner   | Modded tricorder for slicing systems |
 
-### 🚀 Personal Shuttle: *The No Future*  
+### 🚀 Personal Shuttle:
 
-| **Class**     | **Slightly Illegal Starfleet Runabout** |
-|--------------|-----------------------------------------|
-| **Modifications** | Extra power relays, unregistered impulse tweaks, a sound system that shakes bulkheads |
-| **Known Issues** | Nav sensors get fuzzy at high speed, autopilot *mysteriously* disabled |
-| **Crew Capacity** | Supposed to be 6, but it's a one-man punk ship |
+*[Nebula’s Bollocks](ships/nebulas-bollocks/)*  
+
+
 
 ---
 

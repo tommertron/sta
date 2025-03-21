@@ -73,7 +73,7 @@ summary: "R10T-7’s highly illegal, Starfleet-issue-but-not-quite shuttle, modd
 |------------------------|----------|----------------|------------------------------------------|
 | 🔫 Twin Phaser Banks   | Ranged   | 5              | [Versatile 2](/rules/weapons/#versatile) |
 | 🔥 Pulse Phaser Cannons | Ranged   | 4              | [High-Yield](/rules/weapons/#high-yield) |
-| ⚡ ECM Disruptor Field | Defense  | N/A            | [Jam Sensors](/rules/weapons/#jam-sensors) |
+| ⚡ Calibration Disruptor Field | Defense  | N/A  | [Dampening](/rules/weapons/#dampening), [Hidden 1](/rules/weapons/#hidden) |
 
 ---
 

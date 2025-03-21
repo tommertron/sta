@@ -1,8 +1,8 @@
 ---
-title: ‘CPO R10T-7’
-date: ‘2025-02-12’
+title: "CPO R10T-7"
+date: "2025-02-12"
 draft: false
-summary: ‘A self-aware holographic punk who broke out of the holodeck, hacked together a mobile emitter, and became a Starfleet pilot—while secretly modding his shuttle on the side.’
+summary: "A self-aware holographic punk who broke out of the holodeck, hacked together a mobile emitter, and became a Starfleet pilot—while secretly modding his shuttle on the side."
 showReadingTime: false
 ---
 
